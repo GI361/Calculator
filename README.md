@@ -1,4 +1,4 @@
-**Title: **Web-Based Calculator using HTML, CSS & JavaScript
+**Title:** Web-Based Calculator using HTML, CSS & JavaScript
 
 **Project Description:**
 
